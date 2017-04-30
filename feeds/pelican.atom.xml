@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Hello World - Pelican</title><link href="/" rel="alternate"></link><link href="/feeds/pelican.atom.xml" rel="self"></link><id>/</id><updated>2017-04-29T11:01:00+05:30</updated><entry><title>Hello World</title><link href="/articles/hello-world.html" rel="alternate"></link><published>2017-04-29T11:01:00+05:30</published><updated>2017-04-29T11:01:00+05:30</updated><author><name>Animesh</name></author><id>tag:None,2017-04-29:/articles/hello-world.html</id><summary type="html">&lt;p&gt;Hello World to Pelican&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Hello World 1" src="/images/helloWorldPelicanPost.png" title="Hello World 2"&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello World to Pelican&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Hello World 1" src="/images/helloWorldPelicanPost.png" title="Hello World 2"&gt;&lt;/p&gt;</content></entry></feed>
